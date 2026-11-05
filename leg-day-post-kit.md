@@ -1,4 +1,4 @@
-# Leg Day Post Kit (Instagram, YouTube, Snapchat)
+# Leg Day Post Kit (Instagram, YouTube, TikTok, Snapchat)
 
 Video: my full leg day in under 1 minute.
 Exercises: pendulum squat, leg extension, single leg press, hip abduction, seated calf raises.
@@ -69,6 +69,27 @@ Follow for the rest of the weekly split, each one under a minute.
 #legday #legdayworkout #shorts #gymworkout #fitness
 
 **Hashtags:** YouTube shows the first 3 above the title. Keep #legday #legdayworkout #shorts first.
+
+---
+
+## TIKTOK
+
+**Caption (TikTok ranks on search keywords, so "leg day workout" stays in the text):**
+My whole leg day workout in under 1 minute. 5 machines, no fluff. Save this for your next one.
+
+Pendulum squat, leg extension, single leg press, hip abduction, seated calf raises.
+
+Which one are you adding first?
+
+#legday #legdayworkout #gymtok #workoutroutine #fitnesstips #legroutine
+
+**Hashtags (4 to 6):**
+- Core: #legday #legdayworkout #legroutine
+- Reach: #gymtok #workoutroutine #fitnesstips
+- Humor-style swap: #legdayproblems #gymhumor
+- Skip #fyp. TikTok says it does nothing, and it crowds out real tags.
+
+**On-screen text for the first second:** "Leg day in under 1 min"
 
 ---
 
