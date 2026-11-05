@@ -1,21 +1,24 @@
 # Leg Day Post Kit (Instagram, YouTube, Snapchat)
 
+Video: my full leg day in under 1 minute.
+Exercises: pendulum squat, leg extension, single leg press, hip abduction, seated calf raises.
+
 Built from Eden research on breakout leg day posts (last 90 days, creators 100K to 1M followers, 2x+ above their own baseline).
 
 ## What won
 - Relatable humor beat everything: "#LegDay #GymHumor #LegDayProblems" reel ran 45x the creator's baseline.
 - "Save this" beginner routines pulled 30x (2M views). Simple, named exercises, no jargon.
 - Contrarian or "fix your mistake" titles won on YouTube: "Training Hard But Not Growing? Fix Your Split", "What I Wish I Knew About Leg Training".
-- One form cue per video beat full tutorials ("Your squat stance decides which part of your legs works").
+- Short, fast, "no fluff" framing fits the under-1-minute hook. Lead with the time promise, then the list.
 
 ---
 
 ## INSTAGRAM (Reel)
 
-**Caption, option A (relatable hook):**
-Leg day is the one workout you can't fake.
+**Caption, option A (time-promise hook):**
+My whole leg day in under 1 minute.
 
-Full session below. Save it for your next one.
+No fluff, no 2 hour session. 5 machines, in and out.
 
 1. Pendulum squat 4x8
 2. Leg extension 3x12
@@ -23,14 +26,14 @@ Full session below. Save it for your next one.
 4. Hip abduction 3x15
 5. Seated calf raises 4x15
 
-Comment "LEGS" if you want the full week's split.
+Save this for your next leg day. Comment "LEGS" and I'll send the rest of the week.
 
 #legday #legdayworkout #legroutine #gymmotivation #fitnessreels
 
-**Caption, option B (fix-your-mistake hook):**
-If your legs aren't growing, it's not the exercises. It's how you're doing them.
+**Caption, option B (relatable hook):**
+Leg day in under 1 minute. Walking tomorrow, not so fast.
 
-Full leg day in the video. Save it, run it this week, tell me how you walk tomorrow.
+Full session in the video. Save it, run it, tell me how the stairs go.
 
 #legday #legdayworkout #legroutine #gymmotivation #fitnessreels
 
@@ -42,38 +45,37 @@ Full leg day in the video. Save it, run it this week, tell me how you walk tomor
 
 ---
 
-## YOUTUBE (Shorts or long-form)
+## YOUTUBE (Short)
 
 **Title options (pick one):**
-1. Legs Not Growing? Fix Your Leg Day (Full Workout)
-2. What I Wish I Knew Before My First Leg Day
-3. The Leg Day I Should Have Been Doing From Day One
+1. My Entire Leg Day in Under 1 Minute
+2. Full Leg Day in Under 60 Seconds (5 Machines Only)
+3. Leg Day Under 1 Minute. No Fluff.
 
 **Description:**
-Legs not growing? It's probably not the exercises, it's how you're doing them. This is my full leg day, start to finish, with the one form fix that changed everything for me.
+My entire leg day in under 1 minute. 5 machines, no fluff, no 2 hour session.
 
-Full workout:
-0:00 Warm up
-0:45 Pendulum squat 4x8
-2:10 Leg extension 3x12
-3:30 Single leg press 3x10 each leg
-4:40 Hip abduction 3x15
-5:50 Seated calf raises 4x15
+The workout:
+1. Pendulum squat 4x8
+2. Leg extension 3x12
+3. Single leg press 3x10 each leg
+4. Hip abduction 3x15
+5. Seated calf raises 4x15
 
-Save this for your next leg day and comment which exercise you're adding first.
+Save this for your next leg day and comment which machine you're hitting first.
 
-Follow for the rest of the weekly split.
+Follow for the rest of the weekly split, each one under a minute.
 
-#legday #legdayworkout #gymworkout #fitness #shorts
+#legday #legdayworkout #shorts #gymworkout #fitness
 
-**Hashtags:** YouTube shows the first 3 above the title. Put #legday #legdayworkout #shorts first (drop #shorts on long-form).
+**Hashtags:** YouTube shows the first 3 above the title. Keep #legday #legdayworkout #shorts first.
 
 ---
 
 ## SNAPCHAT (Spotlight)
 
-**Description (Spotlight caps text short, keep it under 100 characters):**
-Leg day you can't fake. Full workout, save it for your next one 🦵
+**Description (keep it under 100 characters):**
+My whole leg day in under 1 minute. 5 machines, no fluff. Save it 🦵
 
 **Hashtags (3 to 5):**
 #legday #legdayworkout #gymmotivation #fitness #workout
@@ -83,6 +85,6 @@ Also add Spotlight topics: Fitness, Gym, Workout.
 ---
 
 ## Fill in before posting
-- Sets and reps are placeholders. Change them to what you actually did, and fix the YouTube timestamps to match your edit.
+- Sets and reps are placeholders. Change them to what you actually did.
 - Keep the first line as the hook on every platform. It's the only line people see before "more".
 - Post the Reel and Short within the same hour. Snapchat Spotlight can go the next morning.
