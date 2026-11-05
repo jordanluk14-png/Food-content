@@ -17,11 +17,11 @@ Leg day is the one workout you can't fake.
 
 Full session below. Save it for your next one.
 
-1. Squats 4x8
-2. Romanian deadlifts 3x10
-3. Walking lunges 3x12 each leg
-4. Leg press 3x12
-5. Standing calf raises 4x15
+1. Pendulum squat 4x8
+2. Leg extension 3x12
+3. Single leg press 3x10 each leg
+4. Hip abduction 3x15
+5. Seated calf raises 4x15
 
 Comment "LEGS" if you want the full week's split.
 
@@ -54,11 +54,11 @@ Legs not growing? It's probably not the exercises, it's how you're doing them. T
 
 Full workout:
 0:00 Warm up
-0:45 Squats 4x8
-2:10 Romanian deadlifts 3x10
-3:30 Walking lunges 3x12 each leg
-4:40 Leg press 3x12
-5:50 Standing calf raises 4x15
+0:45 Pendulum squat 4x8
+2:10 Leg extension 3x12
+3:30 Single leg press 3x10 each leg
+4:40 Hip abduction 3x15
+5:50 Seated calf raises 4x15
 
 Save this for your next leg day and comment which exercise you're adding first.
 
@@ -83,6 +83,6 @@ Also add Spotlight topics: Fitness, Gym, Workout.
 ---
 
 ## Fill in before posting
-- Replace the exercise list, sets, reps, and timestamps with what's actually in your video.
+- Sets and reps are placeholders. Change them to what you actually did, and fix the YouTube timestamps to match your edit.
 - Keep the first line as the hook on every platform. It's the only line people see before "more".
 - Post the Reel and Short within the same hour. Snapchat Spotlight can go the next morning.
