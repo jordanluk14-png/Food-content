@@ -233,3 +233,10 @@ Pinned comment: "Before photo is real. Ask me anything about how I eat."
 I lost 35 lbs eating this curry. Still losing. Part 1 🍛
 #weightloss #highprotein #curry #healthyrecipes #mealprep
 Topics: Food, Cooking, Fitness
+
+## Locked series lines (242 start, 207 now, 175 goal)
+- Frame one, over the before photo: 35 down. 32 to go. Here's what I'm eating.
+- Frame two, you in the kitchen: On today's episode, curry.
+- Last frame, on the bowl: What should I cook next?
+- Bio: 242 to 207. Goal is 175. The workouts and the food getting me there. New video every day.
+- Update "35 down. 32 to go." every time the scale moves. The countdown is the follow reason.
