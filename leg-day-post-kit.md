@@ -171,3 +171,65 @@ Pinned comment: "Most people say 1 second. It should be 3."
 Your bicep curls are wrong. Fix the tempo: 1 up, 1 squeeze, 3 down 💪
 #bicepcurl #armday #gymtips #fitness #workout
 Topics: Fitness, Gym, Workout
+
+---
+---
+
+# Series: "The food that got me from [before] to [now]"
+Episode 1: Curry
+
+## Why this format
+The before photo on frame one is the strongest hook in fitness. It is about the viewer (they want the same result), it is proof, and it makes every recipe a reason to follow for the next one.
+
+## Shot plan, 20 to 30 seconds
+| Time | Shot | On-screen text |
+|---|---|---|
+| 0 to 2s | Before photo, full screen | I lost [X] lbs eating this |
+| 2 to 4s | You now, same pose if possible, kitchen | Still losing. Part 1: curry |
+| 4 to 20s | Cooking, fast cuts, 2 to 3s each, ingredient name on each | Chicken thigh 500g, curry paste, coconut milk light, etc |
+| 20 to 25s | Plated, one scoop into a bowl | [cal] calories, [X]g protein |
+| 25 to 28s | Hold on the bowl | What should I cook next? |
+
+Rules: no talking needed, ingredient text on every cooking clip, calories and protein on the plated shot (that is the save reason), question on the last frame.
+
+## INSTAGRAM
+I lost [X] lbs eating this. Still losing.
+
+Part 1 of the foods that got me from [before] to [now]: curry.
+
+[Ingredient 1]
+[Ingredient 2]
+[Ingredient 3]
+[Ingredient 4]
+
+[cal] calories, [X]g protein per bowl. Save this for meal prep.
+
+What should I cook next?
+
+#weightlossjourney #highproteinrecipe #curry #healthyrecipes #fatloss
+
+## YOUTUBE SHORTS
+Title: I Lost [X] lbs Eating This Curry (High Protein, [cal] Calories)
+Description:
+I lost [X] lbs eating this, and I'm still losing. Part 1 of the foods that got me from [before] to [now].
+
+Ingredients:
+[list]
+
+[cal] calories, [X]g protein per bowl.
+
+Save this for meal prep and comment what I should cook next.
+
+#weightloss #highprotein #shorts #curry #healthyrecipes
+
+## TIKTOK
+I lost [X] lbs eating this and I'm still losing. Part 1 of the foods that got me here: curry. [cal] calories, [X]g protein. What should I cook next?
+
+#weightlossjourney #highproteinrecipe #curry #whatieatinaday #fatloss #mealprep
+
+Pinned comment: "Before photo is real. Ask me anything about how I eat."
+
+## SNAPCHAT SPOTLIGHT
+I lost [X] lbs eating this curry. Still losing. Part 1 🍛
+#weightloss #highprotein #curry #healthyrecipes #mealprep
+Topics: Food, Cooking, Fitness
