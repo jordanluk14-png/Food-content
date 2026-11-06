@@ -240,3 +240,20 @@ Topics: Food, Cooking, Fitness
 - Last frame, on the bowl: What should I cook next?
 - Bio: 242 to 207. Goal is 175. The workouts and the food getting me there. New video every day.
 - Update "35 down. 32 to go." every time the scale moves. The countdown is the follow reason.
+
+## Episode 1 (curry), frame by frame
+| Time | Shot | On-screen text |
+|---|---|---|
+| 0 to 1.5s | Before photo, full screen | This was me at 242. |
+| 1.5 to 3s | Hard cut to you now, kitchen, same pose and smile as the photo | 35 down. 32 to go. Here's what I'm eating. |
+| 3 to 4.5s | You pick up the pan or hold up the main ingredient | On today's episode, curry. |
+| 4.5 to 7s | Chicken going into the pan, close, top-down | Chicken thigh, [g] |
+| 7 to 9.5s | Curry paste or spices going in | [paste or spice] |
+| 9.5 to 12s | Coconut milk or sauce poured in, stir | Light coconut milk |
+| 12 to 14.5s | Vegetables in, stir | [veg] |
+| 14.5 to 17s | Simmer shot, lid on or steam, 2x speed | Simmer 15 min |
+| 17 to 20s | Scoop onto rice or into a bowl | [cal] cal, [X]g protein |
+| 20 to 23s | You take the first bite, nod, look at camera | Still losing on this. |
+| 23 to 25s | Hold on the finished bowl | What should I cook next? |
+
+Rules: every cooking clip 2 to 3 seconds, filmed close and top-down, ingredient text on each. Trending sound added in the app. Cover frame is the before photo with the first line.
