@@ -109,3 +109,65 @@ Also add Spotlight topics: Fitness, Gym, Workout.
 - Sets and reps are placeholders. Change them to what you actually did.
 - Keep the first line as the hook on every platform. It's the only line people see before "more".
 - Post the Reel and Short within the same hour. Snapchat Spotlight can go the next morning.
+
+---
+---
+
+# Video 2: Time Under Tension Bicep Curl ("Everyone curls wrong")
+
+Eden evidence (last 6 months, 100K to 1M creators): "7 Steps to Perfect Your Curl Form" (5.6x), "The ONLY Bicep Curl Tutorial You'll Ever Need" (10x, 457 comments), "elbow is a hinge, curl like a catapult" (2.1M views, 778 comments). The winners pair one specific cue with the claim "drop the weight."
+
+## Shot plan, 15 to 20 seconds
+| Time | Shot | On-screen text |
+|---|---|---|
+| 0 to 3s | You swinging a heavy curl, sloppy on purpose | This is why your biceps aren't growing |
+| 3 to 5s | Same angle, you set the heavy weight down and pick up a lighter one | Drop the weight |
+| 5 to 13s | One perfect rep, side angle. 1 second up, 1 second squeeze, 3 seconds down | 1 up. 1 squeeze. 3 down. |
+| 13 to 17s | Second rep, elbows pinned, chest-height close-up | Elbows don't move |
+| 17 to 20s | Last rep, hold the top | Be honest, how long is your negative? |
+
+End on the question frame. No loop needed, the question is the ending.
+
+## INSTAGRAM
+Caption:
+This is why your biceps aren't growing.
+
+You're curling heavy and swinging. Drop the weight and own the tempo:
+1 second up. 1 second squeeze. 3 seconds down.
+
+4 sets of 10. If you can swing it, it's too heavy.
+
+Be honest, how long is your negative?
+
+#bicepcurl #armday #gymtips #timeundertension #fitnessreels
+
+## YOUTUBE SHORTS
+Title: Your Bicep Curls Are Wrong. Fix the Tempo (3 Second Negative)
+Description:
+This is why your biceps aren't growing. You're curling heavy and swinging it.
+
+Drop the weight and own the tempo:
+1 second up
+1 second squeeze
+3 seconds down
+
+4 sets of 10. If you can swing it, it's too heavy.
+
+Comment how long your negative actually is.
+
+#bicepcurl #armday #shorts #gymtips #timeundertension
+
+## TIKTOK
+Caption:
+This is why your biceps aren't growing. Bicep curl tempo fix: 1 up, 1 squeeze, 3 down. If you can swing it, it's too heavy.
+
+How long is your negative, be honest
+
+#bicepcurl #armday #gymtok #gymtips #timeundertension #workouttips
+
+Pinned comment: "Most people say 1 second. It should be 3."
+
+## SNAPCHAT SPOTLIGHT
+Your bicep curls are wrong. Fix the tempo: 1 up, 1 squeeze, 3 down 💪
+#bicepcurl #armday #gymtips #fitness #workout
+Topics: Fitness, Gym, Workout
