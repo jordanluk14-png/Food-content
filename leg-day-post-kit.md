@@ -257,3 +257,60 @@ Topics: Food, Cooking, Fitness
 | 23 to 25s | Hold on the finished bowl | What should I cook next? |
 
 Rules: every cooking clip 2 to 3 seconds, filmed close and top-down, ingredient text on each. Trending sound added in the app. Cover frame is the before photo with the first line.
+
+## Episode 1 (swapped): Crack sauce, zero calorie dipping sauce
+Post tonight at 6 PM Pacific. Curry becomes Episode 2.
+
+### Frame by frame, about 20 seconds
+| Time | Shot | On-screen text |
+|---|---|---|
+| 0 to 1.5s | Before photo | This was me at 242. |
+| 1.5 to 3s | You now, kitchen, same pose | 35 down. 32 to go. Here's what I'm eating. |
+| 3 to 4.5s | You hold up the finished sauce | On today's episode, the sauce that made plain chicken taste good. |
+| 4.5 to 6s | Plain chicken or steak on a plate, dry | This was every meal. |
+| 6 to 14s | Ingredients going into the bowl, one per clip, 2s each | [ingredient] on each |
+| 14 to 16s | Stir | 0 calories. 0 sugar. |
+| 16 to 19s | Dip a piece of steak or chicken, bite, look at camera | Still losing on this. |
+| 19 to 21s | Hold on the bowl | What should I make next? |
+
+### INSTAGRAM
+35 down. 32 to go. Part 1 of the food getting me from 242 to 175.
+
+The zero calorie sauce that made plain chicken and steak actually taste good. No sugar, no calories, and it's the reason I stopped quitting my diet.
+
+[Ingredient 1]
+[Ingredient 2]
+[Ingredient 3]
+[Ingredient 4]
+
+Mix, dip, done. Save this.
+
+What should I make next?
+
+#weightlossjourney #zerocalorie #highproteinmeals #sauce #fatloss
+
+### YOUTUBE SHORTS
+Title: The Zero Calorie Sauce That Helped Me Lose 35 lbs
+Description:
+35 down, 32 to go. Part 1 of the food getting me from 242 to 175.
+
+This sauce made plain chicken and steak taste good, with zero calories and zero sugar. It's the reason I stopped quitting my diet.
+
+Ingredients:
+[list]
+
+Mix, dip, done. Save this and comment what I should make next.
+
+#weightloss #zerocalorie #shorts #highprotein #healthyrecipes
+
+### TIKTOK
+35 down, 32 to go. Part 1 of the food getting me from 242 to 175. Zero calorie, zero sugar sauce that made plain chicken taste good. What should I make next?
+
+#weightlossjourney #zerocalorie #cracksauce #highproteinmeals #fatloss #mealprep
+
+Pinned comment: "Before photo is real. The sauce recipe is on screen. Ask me anything."
+
+### SNAPCHAT SPOTLIGHT
+The zero calorie sauce that helped me lose 35 lbs. Part 1 🔥
+#weightloss #zerocalorie #sauce #healthyrecipes #mealprep
+Topics: Food, Cooking, Fitness
