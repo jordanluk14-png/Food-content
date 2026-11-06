@@ -314,3 +314,20 @@ Pinned comment: "Before photo is real. The sauce recipe is on screen. Ask me any
 The zero calorie sauce that helped me lose 35 lbs. Part 1 🔥
 #weightloss #zerocalorie #sauce #healthyrecipes #mealprep
 Topics: Food, Cooking, Fitness
+
+### Crack sauce, full script (spoken + on screen), about 22 seconds
+| # | Time | Shot | Say | On screen |
+|---|---|---|---|---|
+| 1 | 0 to 1.5s | Before photo, full screen | nothing | This was me at 242. |
+| 2 | 1.5 to 3.5s | You, front angle, kitchen, same pose, then relax | "Thirty-five down. Thirty-two to go." | 35 down. 32 to go. |
+| 3 | 3.5 to 6s | Hold up the finished bowl of sauce | "This is the sauce that made plain chicken taste good." | The 2 calorie dip. |
+| 4 | 6 to 8s | Dry chicken or steak on a plate, top-down | "I ate this every day. It was miserable." | This was every meal. |
+| 5 | 8 to 10s | Fish sauce going into the bowl, close | "Fish sauce." | Fish sauce, [amount] |
+| 6 | 10 to 12s | Next ingredient in | "[Ingredient]." | [Ingredient], [amount] |
+| 7 | 12 to 14s | Next ingredient in | "[Ingredient]." | [Ingredient], [amount] |
+| 8 | 14 to 16s | Last ingredient in | "[Ingredient]." | [Ingredient], [amount] |
+| 9 | 16 to 18s | Stir, close | "Forty-four calories. The whole bowl." | 44 calories. The whole bowl. |
+| 10 | 18 to 21s | Dip a piece of meat, bite, look at camera, nod | "About two calories a dip. Still losing on this." | 2 calories a dip. |
+| 11 | 21 to 23s | Hold on the bowl, your hand in frame | "What should I make next?" | What should I make next? |
+
+Rules: say each line once, no intro, no "hey guys." Ingredient clips are 2 seconds, say only the ingredient name. Phone propped, not handheld, for the bowl shots. Face in frame for shots 2, 3, 10, 11.
